@@ -1,0 +1,13 @@
+supplier_id,name,region,annual_spend_usd,open_findings,data_incidents,last_audit_score,onboarded_year
+SUP-1101,Nordhaven Components,EMEA,148000,2,0,88,2019
+SUP-1102,Sierra Pacific Alloys,AMER,312000,5,1,74,2016
+SUP-1103,Blue Meridian Labs,APAC,76000,1,0,93,2021
+SUP-1104,Arclight Industrial,EMEA,540000,7,2,61,2014
+SUP-1105,Cascade Microdevices,AMER,93000,3,0,80,2018
+SUP-1106,Tamsin Freight Systems,APAC,205000,0,1,97,2022
+SUP-1107,Orinoco Metals,AMER,680000,4,3,58,2013
+SUP-1108,Kestrel Optics,EMEA,12000,2,0,90,2020
+SUP-1109,Verity Coatings,APAC,299000,6,1,66,2015
+SUP-1110,Pinewater Chemicals,AMER,42000,0,0,99,2023
+SUP-1111,Delmar Power Modules,EMEA,880000,9,2,49,2012
+SUP-1112,Astraea Semiconductors,APAC,150000,1,0,85,2019
